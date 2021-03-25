@@ -20,8 +20,8 @@ Os clients foram feitos em Autoit,c++,c
           Remover persistencia
           Reinfectar
   <h1>Prefixos:</h1>
-          exec!oculto+comando = Executa comandos em background
-          exec!comando = Executa o comando sem ser em background
+          exec!oculto+comando = Executa comandos sem ser em background
+          exec!comando = Executa o comando em background
           KILL!nomedoprocesso = mata o processo
           DOWNLOAD!http://link/arquivo.exe?nomequequersalvar.exe = baixa arquivo
           REINFECT = reinfecta a maquina
