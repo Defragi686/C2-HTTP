@@ -25,11 +25,11 @@ Os clients foram feitos em Autoit,c++,c
   MOBILE
 </h1>
 <p align="center">
-  <img width="70%" src="https://i.imgur.com/0IkynIA.png">
+  <img width="50%" src="https://i.imgur.com/0IkynIA.png">
 </p>
 
 <p align="center">
-  <img width="70%" src="https://i.imgur.com/o12wWGr.png">
+  <img width="50%" src="https://i.imgur.com/o12wWGr.png">
 </p>
 
 
