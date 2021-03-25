@@ -6,6 +6,6 @@ O front end esta com bastantes bugs, eu n trabalhei muito no backend pois sua un
 </p>
 
 <p align="center">
-  <img width="660" height="500" src="https://i.imgur.com/TpqS0Cu.png">
+  <img width="100%" src="https://i.imgur.com/TpqS0Cu.png">
 </p>
 
