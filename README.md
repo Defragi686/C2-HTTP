@@ -28,7 +28,7 @@ Os clients foram feitos em Autoit,c++,c
           SHUTDOWN = Desliga o cumputador
           RESTART = Reinicia o computador
           Unistall = Remove persistencia
-  <h1>Modulos:</h1>
+  <h1>Modulos:(Nao POSTADO!)</h1>
           Conexao TCP/IP
           Ransomware
           KeyLogger
