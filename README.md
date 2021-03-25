@@ -41,6 +41,9 @@ Os clients foram feitos em Autoit,c++,c
   DESKTOP
 </h1>
 <p align="center">
+  <img width="100%" src="https://i.imgur.com/nw5NpRO.png">
+</p>
+<p align="center">
   <img width="100%" src="https://i.imgur.com/DfnQoCh.png">
 </p>
 
