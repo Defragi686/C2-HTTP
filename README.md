@@ -34,6 +34,14 @@ Os clients foram feitos em Autoit,c++,c
           KeyLogger (au3)
           SreenShot (AU3)
           Auto Start (AU3)
+  <h1>Clients:</h1>
+          KN1v7_Client.au3 (Postado = Windows)
+          KN1v6_Client.c (Nao Postado = Linux)
+          KN1v5_Client.cpp (Nao Postado = Windows)
+          KN1v4_Client.php (Nao Postado = Linux)
+          KN1v3_Client.sh (Nao Postado = Linux)
+          KN1v2_CLient.py (Nao Postado = Linux)
+          KN1v1_CLient.au3 (Nao Postado = Windows)
   </pre>
 </p>
 </p>
