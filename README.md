@@ -16,6 +16,7 @@ O front end esta com bastantes bugs, eu n trabalhei muito no backend pois sua un
 
 
 <p align="left">
+  <pre>
   Comandos:
           Upload de arquivo
           Matar processo
@@ -33,5 +34,6 @@ O front end esta com bastantes bugs, eu n trabalhei muito no backend pois sua un
           SHUTDOWN = Desliga o cumputador
           RESTART = Reinicia o computador
           Unistall = Remove persistencia
+  </pre>
 </p>
 
