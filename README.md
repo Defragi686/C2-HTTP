@@ -2,7 +2,12 @@
   Meu primeiro codigo de botnet (Não Terminado)
 </h1>
 <p align="center" style="font-size:20px;">
+  <pre>
 O front end esta com bastantes bugs, eu n trabalhei muito no backend pois sua unica funçao era Funcionar e evitar que Lammers roubassem o codigo,voce pode melhorar e organizar facilmente usando o arquivo de classes =)
+
+  Servidor foi feito em php,css,mysql,html
+  Clients foi feito em Autoit,c++,c
+</pre>
 </p>
 
 <p align="center">
