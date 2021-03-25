@@ -9,7 +9,9 @@ evitar que Lammers roubassem o codigo,voce pode melhorar e organizar facilmente 
 Os clients foram feitos em Autoit,c++,c
 </pre>
 </p>
-
+<h1 align="center">
+  DESKTOP
+</h1>
 <p align="center">
   <img width="100%" src="https://i.imgur.com/DfnQoCh.png">
 </p>
@@ -18,6 +20,17 @@ Os clients foram feitos em Autoit,c++,c
   <img width="100%" src="https://i.imgur.com/TpqS0Cu.png">
 </p>
 
+
+<h1 align="center">
+  MOBILE
+</h1>
+<p align="center">
+  <img width="100%" src="https://i.imgur.com/0IkynIA.png">
+</p>
+
+<p align="center">
+  <img width="100%" src="https://i.imgur.com/o12wWGr.png">
+</p>
 
 
 <p align="left">
