@@ -17,7 +17,8 @@ O front end esta com bastantes bugs, eu n trabalhei muito no backend pois sua un
 
 <p align="left">
   <pre>
-  Comandos:
+  
+  <h1>Comandos:</h1>
           Upload de arquivo
           Matar processo
           Desligar
@@ -25,7 +26,7 @@ O front end esta com bastantes bugs, eu n trabalhei muito no backend pois sua un
           Execuçao de comandos
           Remover persistencia
           Reinfectar
-  Prefixos:
+  <h1>Prefixos:</h1>
           exec!oculto+comando = Executa comandos em background
           exec!comando = Executa o comando sem ser em background
           KILL!nomedoprocesso = mata o processo
