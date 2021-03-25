@@ -1,3 +1,2 @@
-* linguist-vendored
-*.autoit linguist-vendored=false
 
+client/* linguist-vendored
