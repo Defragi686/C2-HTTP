@@ -1,3 +1,3 @@
 * linguist-vendored
-*.php linguist-vendored=false
+*.autoit linguist-vendored=false
 
