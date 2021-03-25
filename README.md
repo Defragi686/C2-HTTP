@@ -8,6 +8,28 @@ evitar que Lammers roubassem o codigo,voce pode melhorar e organizar facilmente 
   </br>
 Os clients foram feitos em Autoit,c++,c
 </pre>
+<p align="left">
+  <pre>
+  
+  <h1>Comandos:</h1>
+          Upload de arquivo
+          Matar processo
+          Desligar
+          Reiniciar
+          Execuçao de comandos
+          Remover persistencia
+          Reinfectar
+  <h1>Prefixos:</h1>
+          exec!oculto+comando = Executa comandos em background
+          exec!comando = Executa o comando sem ser em background
+          KILL!nomedoprocesso = mata o processo
+          DOWNLOAD!http://link/arquivo.exe?nomequequersalvar.exe = baixa arquivo
+          REINFECT = reinfecta a maquina
+          SHUTDOWN = Desliga o cumputador
+          RESTART = Reinicia o computador
+          Unistall = Remove persistencia
+  </pre>
+</p>
 </p>
 <h1 align="center">
   DESKTOP
@@ -33,26 +55,4 @@ Os clients foram feitos em Autoit,c++,c
 </p>
 
 
-<p align="left">
-  <pre>
-  
-  <h1>Comandos:</h1>
-          Upload de arquivo
-          Matar processo
-          Desligar
-          Reiniciar
-          Execuçao de comandos
-          Remover persistencia
-          Reinfectar
-  <h1>Prefixos:</h1>
-          exec!oculto+comando = Executa comandos em background
-          exec!comando = Executa o comando sem ser em background
-          KILL!nomedoprocesso = mata o processo
-          DOWNLOAD!http://link/arquivo.exe?nomequequersalvar.exe = baixa arquivo
-          REINFECT = reinfecta a maquina
-          SHUTDOWN = Desliga o cumputador
-          RESTART = Reinicia o computador
-          Unistall = Remove persistencia
-  </pre>
-</p>
 
