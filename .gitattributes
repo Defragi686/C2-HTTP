@@ -1,2 +1,2 @@
-
-client/* linguist-vendored
+* linguist-vendored
+*.css linguist-vendored=false
