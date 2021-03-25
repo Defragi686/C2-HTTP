@@ -1,0 +1,321 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+html, body {height:100%;}
+body {
+    margin: 0;
+    padding: 0;
+    background-image:url('../img/1.png');
+    background-color: rgba(0, 0, 0, 0.507);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* e agora a regra de ouro que fará a imagem ocupar todo o viewport */
+    background-size: 100% 100%;
+    
+
+}
+
+
+
+
+header{
+    background-color: rgb(0, 0, 0);;
+    display: flex;
+
+
+}
+
+header #logo {
+    
+    width: 220px;
+    text-align: center;
+    padding:18px;
+    border-bottom: solid 0.1px rgba(255, 255, 255, 0.459);
+}
+header .menu {
+    
+    flex: 1;
+    border-bottom: solid 0.1px rgba(255, 255, 255, 0.459);
+    
+}
+
+header .menu ul {
+    
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    padding: 0;
+}
+
+header .menu li {
+    min-width: 90px;
+    line-height: 28px;
+    
+}
+
+header .menu a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-weight: bold;
+    padding:20px;
+}
+
+.menu .open-button{
+    
+    display: none;
+}
+.menu .close-menu{
+    display: none;
+}
+
+.backdrop {
+    display: none;
+}
+
+.edit {
+    border: rgb(150, 150, 150) 1px solid;
+    
+}
+.edit:hover{
+    cursor: pointer;
+    background-color: rgba(90, 90, 94, 0.527);
+}
+
+.cvt {
+
+    width: 100%;
+    background-color: rgb(34, 34, 41);
+    border-radius: 2px;
+}
+.table-scroll{
+    /*width:100%; */
+    display: block;
+    empty-cells: show;
+    
+    /* Decoration */
+    border-spacing: 0;
+    border: 1px solid;
+  }
+  /*titulo*/
+  .table-scroll thead{
+    background-color: #000000;  
+    position:relative;
+    display: block;
+    width:100%;
+    overflow-y: scroll;
+  }
+
+  .table-scroll tbody{
+    /* Position */
+    display: block; position:relative;
+    width:100%; overflow-y:scroll;
+    /* Decoration */
+    border-top: 1px solid rgb(0, 0, 0);
+  }
+  
+  .table-scroll tr{
+    width: 100%;
+    display:flex;
+  }
+  /*Fundo*/
+  .table-scroll td,.table-scroll th{
+    flex-basis:100%;
+    flex-grow:2;
+    display: block;
+    padding: 1rem;
+    text-align:left;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    
+  }
+
+  /* Other options */
+  
+  .table-scroll.small-first-col td:first-child,
+  .table-scroll.small-first-col th:first-child{
+    flex-basis:20%;
+    flex-grow:1;
+  }
+  /*PAR*/
+  .table-scroll tbody tr:nth-child(2n){
+    background-color: rgba(70, 70, 70, 0);
+    border: 1px solid black;
+  }
+  
+  .body-half-screen{
+    max-height: 70vh;
+  }
+  .aha3{
+      display: inline-flex;
+      color:white;
+      margin-left: 20px;
+
+  }
+  
+  .small-col{flex-basis:10%;}
+.containercmds {
+    width: 25%;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 20px;
+    background-color: rgba(37, 37, 44, 0.959);
+}
+.containercmds input {
+    margin-bottom: 20px;
+    background-color: rgb(58, 58, 58);
+    border:none;
+    border: 1px solid black;
+    padding:15px;
+    color: white;
+    font-size: 14px;
+}
+
+.redirect {
+    color: rgb(104, 114, 255);
+    text-decoration: none;
+}
+.redirect:hover {
+    color: rgb(74, 86, 255);
+    cursor: pointer;
+    font-size: 14px;
+}
+.h {
+    display: block;
+    text-align: center;
+    margin-bottom: 4px;
+}
+
+.h p {
+
+    text-align: center;
+    color:white;
+    font-weight: 600;
+}
+.e {
+
+    display: inline-block;
+    width: 180px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    
+}
+
+.e p {
+    margin: 0px;
+    text-align: center;
+    color:white;
+    font-weight: 600;
+}
+.subinp {
+    width: 210px;
+}
+.subinp:hover {
+    cursor: pointer;
+    background-color: rgb(97, 97, 97);
+}
+.f {
+    margin: 0px;
+    padding: 0px;
+    margin-left: 60px;
+
+    display: inline-block;
+    width: 300px;
+    height: 60px;
+    background-color:violet;
+}
+@media (max-width: 1615px){
+    .container-php{
+        display: flex;
+        position: relative;
+        border: 0px solid rgba(0, 255, 13, 0);
+        width: 0px;
+        height: 0px;
+        background-color: rgba(0, 0, 0, 0);
+    }
+}
+
+@media (max-width: 683px) {
+
+    body {
+        max-width: 462;
+        background-image: none;
+        background-color: rgb(28, 29, 29);
+    }
+    .edit {
+        border:none;
+    }
+    .menu .close-menu {
+        display: block;
+        text-align: right;
+        background-color: rgba(41, 41, 41, 0.671);
+    }
+    .menu .close-menu button {
+        background: none;
+        border: none;
+        font-size: 2em;
+        padding: .75rem 1rem;
+    }
+    .x {
+        position: relative;
+        float: right;
+    }
+    .y {
+        color:white;
+    }
+    .botao {
+        margin-left: 20px;
+    }
+    .menu.open .backdrop {
+        opacity: .5;
+        display: block;
+    }
+
+    .menu .backdrop {
+        opacity: 0;
+        background-color: rgb(0, 0, 0);
+        transition: opacity .15s linear;
+        position: fixed;
+        width: 100%;
+        height: 100vh;
+        z-index: 1;
+        left: 0;
+        top: 0;
+    }
+    header .menu ul {
+        display: block;
+        position: fixed;
+        top: 0;
+        right: -80vw;
+        width: 70vw;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.651);;
+        z-index: 2;
+        margin: 0;
+        transition: right .2s linear;
+    }
+
+    .menu {
+        width: 60px;
+        flex: initial;
+    }
+    .menu.open ul {
+        right: 0;
+    }
+    .menu.open a {
+        color: rgb(245, 245, 245);
+        padding: 20px;
+        display: block;
+        font-weight: 100;
+        border-bottom: rgb(116, 91, 91) 1px solid;
+    }
+    .menu .open-button{
+        display: block;
+        font-size: 2em;
+        padding: .9rem;
+        flex: 1;
+        background: none;
+        border: none;
+        color: white;
+    }
+
+}
