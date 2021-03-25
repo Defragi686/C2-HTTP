@@ -1,3 +1,4 @@
 * linguist-vendored
-*.Autoit linguist-vendored=false
-*.css linguist-detectable=true
+*.css linguist-vendored=false
+*.scss linguist-vendored=false
+*.php linguist-detectable=true
