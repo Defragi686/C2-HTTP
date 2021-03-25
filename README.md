@@ -29,11 +29,11 @@ Os clients foram feitos em Autoit,c++,c
           RESTART = Reinicia o computador
           Unistall = Remove persistencia
   <h1>Modulos:(Nao POSTADO!)</h1>
-          Conexao TCP/IP
-          Ransomware
-          KeyLogger
-          SreenShot
-          Auto Start
+          Conexao TCP/IP (C)
+          Criptografar (Ransomware = Au3)
+          KeyLogger (au3)
+          SreenShot (AU3)
+          Auto Start (AU3)
   </pre>
 </p>
 </p>
