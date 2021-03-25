@@ -1,3 +1,2 @@
 * linguist-vendored
-*.autoit linguist-vendored=false
 *.autoit linguist-detectable=true
