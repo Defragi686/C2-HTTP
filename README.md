@@ -1,5 +1,5 @@
 <h1 align="center">
-  Meu primeiro codigo de botnet (Não Terminado)
+  Meu primeiro codigo of C2 (Não Terminado)
 </h1>
 <p align="center" style="font-size:20px;">
   <pre>
